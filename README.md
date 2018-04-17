@@ -3,12 +3,12 @@
 2. Introducción. 
   - El objetivo del proyecto es poder ver en un mapa, la dispersión del polen por valencia, a su vez tener los datos de los     alquileres por toda valencia. Para poder saber si eres alérgico, saber por que zonas puedes vivir con mas probabilidad de tener más alergia o no. También tenemos los puntos que tiene la cuidad de valencia con los datos de contaminación del aire si buena por esa zona o no.
  - El problema a resolver
-  - Recogida de los datos de los pisos.
-    - WebScrapping con Python, BeutifulShoup y OpenRefine.
-  - Recogida de los datos del polen.
-    - Web Portal de Transparencia de Valencia, QGIS 3 y OpenRefine.
-  - Recogida de los datos de la contaminación.
-   - Web Portal de Transparencia de Valencia, My Google Maps y OpenRefine.
+   - Recogida de los datos de los pisos.
+     - WebScrapping con Python, BeutifulShoup y OpenRefine.
+   - Recogida de los datos del polen.
+     - Web Portal de Transparencia de Valencia, QGIS 3 y OpenRefine.
+   - Recogida de los datos de la contaminación.
+     - Web Portal de Transparencia de Valencia, My Google Maps y OpenRefine.
 3. Descripción de la solución planteada.
   - Recogida de los datos de los pisos.
     - Mediante el WebScrapping con Python y BeutifulShoup, creamos los Códigos idelistapaginas.py y idelistapaginasmapa.py.
