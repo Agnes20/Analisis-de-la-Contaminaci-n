@@ -30,7 +30,7 @@ print("¿Cómo se la fichero .json?")
 fichero = input()
 with open(fichero, 'r') as f:
     distros_dict = json.load(f)
-    f = codecs.open('datos_openrefine.json', mode='w', encoding='utf-8') #se necesita el codecs para poder hacer el archivo,para el python 2.7.XX##
+    f = codecs.open('datos_openrefine2.json', mode='w', encoding='utf-8') #se necesita el codecs para poder hacer el archivo,para el python 2.7.XX##
     idealista_houses = list()
 for distro in distros_dict:
     active_url = distro['url']
