@@ -1,9 +1,9 @@
 1. Título
   - Análisis de la Contaminación
 2. Introducción. 
- -Objetivo del proyecto
+ - Objetivo del proyecto
   - El objetivo del proyecto es poder ver en un mapa, la dispersión del polen por valencia, a su vez tener los datos de los     alquileres por toda valencia. Para poder saber si eres alérgico, saber por que zonas puedes vivir con mas probabilidad de tener más alergia o no. También tenemos los puntos que tiene la cuidad de valencia con los datos de contaminación del aire si buena por esa zona o no.
- -El problema a resolver
+ - El problema a resolver
   - Recogida de los datos de los pisos.
     - WebScrapping con Python, BeutifulShoup y OpenRefine.
   - Recogida de los datos del polen.
