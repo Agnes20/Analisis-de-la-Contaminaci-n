@@ -8,7 +8,7 @@
     - WebScrapping con Python, BeutifulShoup y OpenRefine.
   - Recogida de los datos del polen.
     - Web Portal de Transparencia de Valencia, QGIS 3 y OpenRefine.
-  -Recogida de los datos de la contaminación.
+  - Recogida de los datos de la contaminación.
    - Web Portal de Transparencia de Valencia, My Google Maps y OpenRefine.
 3. Descripción de la solución planteada.
   - Recogida de los datos de los pisos.
@@ -19,7 +19,6 @@
   - Recogida de los datos del polen.
     - Obtenemos los de la Web Portal de Transparencia de Valencia y mediante el programa QGIS 3 sacamos los puntos, quitamos los puntos que no nos interesan y le insertamos los que datos que nos interesa y lo guardamos como .GEOJSON
   -Recogida de los datos de la contaminación.
-   - Web Portal de Transparencia de Valencia, My Google Maps y OpenRefine.
    - Obtenemos los de la Web Portal de Transparencia de Valencia y mediante el programa My google Maps sacamos las coordenadas de los punto y con el programa OpenRefine le insertamos los que datos que nos interesa y lo guardamos como .CSV o .XLS
 4. Metodología.
  - 1. Recogida de los datos de la Webs
