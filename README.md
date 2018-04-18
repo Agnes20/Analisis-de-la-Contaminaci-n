@@ -26,6 +26,7 @@
  - 4. Mapa finalizado
 5. Resultados.
  - Mapa finalizado: http://editor.giscloud.com/map/854089/mapa-valencia 
+ <a href="http://editor.giscloud.com/map/854089/mapa-valencia">Mapa finalizado</a>
 6. Guía de uso.
  -  El Código idelistapaginas.py obtenemos los datos generales de los pisos y solo le pasamos el link que quieres explorar.
  -  El Código idelistapaginasmapa.py obtenemos los datos que nos faltan de los pisos con más profundidad y solo le pasamos el nombre del archivo .JSON (creado con el programa idelistapaginas.py) que quieres explorar y actualizamos los datos que nos faltan de los pisos.
