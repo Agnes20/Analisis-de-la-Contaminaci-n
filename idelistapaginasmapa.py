@@ -25,7 +25,7 @@ def parse(text):
 ## Codigo de la mision
 #SIEMPRE TABULAR EN PYTHON, SINO NO FUNCIONA
 root_url = "https://www.idealista.com"
-print("¿Cómo se la fichero .json?")
+print("¿Cómo se llama el fichero .json?")
 #poner ' ' en los lados del nombre del fichero
 fichero = input()
 with open(fichero, 'r') as f:
