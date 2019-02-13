@@ -21,7 +21,7 @@ def parse(text):
 
 
 ## Codigo de la mision
-print("¿Cómo se la url?")
+print("¿Cómo se llama la url?")
 #poner las " " en los lados de la url
 active_url = input()
 root_url = "https://www.idealista.com"
